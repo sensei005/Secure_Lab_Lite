@@ -6,7 +6,7 @@ Tiny security lab with one Ubuntu Server and one Windows VM and one kali-Linux. 
 
 ## VMs & IPs
 - Ubuntu Server 22.04 — 10.22.14.64 (before restart)   |  10.116.247.64 (after restart)
-- Windows 10 — 10.22.14.143 (before restart)           |  10.116.247.143 (after restart)
+- Windows Server — 10.22.14.143 (before restart)           |  10.116.247.143 (after restart)
 - Kali — 10.116.247.159
 
 ## Tools used
