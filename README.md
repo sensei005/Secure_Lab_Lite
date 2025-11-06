@@ -1,5 +1,5 @@
 # Secure_Lab_Lite
-Learnbay Task1
+Learnbay Task1 (Souvik_Mondal)
 
 ## Overview
 Tiny security lab with one Ubuntu Server and one Windows VM and one kali-Linux. Performed basic hardening and simple network discovery using Nmap.
